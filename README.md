@@ -13,4 +13,4 @@ To start with, I had identified a list of features that I thought may be most in
 
 Results :
 
-<img width="970" height="513" alt="btc_results" src="https://github.com/user-attachments/assets/ea56c355-1021-4142-9dda-3cf96439da7a" />
+<img width="1400" height="513" alt="btc_results" src="https://github.com/user-attachments/assets/ea56c355-1021-4142-9dda-3cf96439da7a" />
