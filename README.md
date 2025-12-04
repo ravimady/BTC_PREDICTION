@@ -4,7 +4,7 @@
 <img src="https://github.com/user-attachments/assets/f692ec88-6d26-40ca-8880-54c7e2ead062" alt="btc_pic" width="1400"> 
 
 
-Objective:
+## **Objective:**
 This project is a personal project to develop a Machine Learning process in continuously understanding the factors that influence the Bitcoin prices and be able to accurately predict the movement in Bitcoin and later even other coins. 
 
 
@@ -17,7 +17,7 @@ The features vary significantly hence there was a need to standardise or normali
 
 Modelling :
 Models evaluated :
-1. ARIMA models for EDA (not published)
+1. ARIMA models for EDA.
 2. Random Forest Regressor.
 3. Catboost Regressor.
 
