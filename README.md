@@ -25,5 +25,6 @@ Models evaluated :
 
 <img width="1400" height="513" alt="btc_results" src="https://github.com/user-attachments/assets/ea56c355-1021-4142-9dda-3cf96439da7a" />
 
+## **Feature Importance:**
 
-
+<img width="1400" height="272" alt="shap_values" src="https://github.com/user-attachments/assets/5f7be09b-4558-4a5e-b828-fc497a94f072" />
