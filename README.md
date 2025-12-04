@@ -5,7 +5,7 @@
 
 
 ## **Objective:**
-This project is a personal project to develop a Machine Learning process in continuously understanding the factors that influence the Bitcoin prices and be able to accurately predict the movement in Bitcoin and later even other coins. 
+This project is a personal project to develop a Machine Learning process that understands the factors that influence the Bitcoin prices and be able to accurately predict the movement in Bitcoin and later even other coins. 
 
 
 ## **Approach:**
