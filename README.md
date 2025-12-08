@@ -56,4 +56,9 @@ The above graphs are a sign that the model built is in good order and does not e
 2. The graph is normally distributed.
 3. The Q-Q plot showing the plots closely following the red line is also a good sign.
 
+# Repo Details :
+
+In case you are interested in reviewing the detailed repo, you can click the below link.
+
+[Open in Codespaces](https://github.com/codespaces/new?repo=USERNAME/REPO_NAME)
 
