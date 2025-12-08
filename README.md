@@ -28,3 +28,11 @@ Models evaluated :
 ## **Feature Importance:**
 
 <img width="1400" height="800" alt="shap_values" src="https://github.com/user-attachments/assets/5f7be09b-4558-4a5e-b828-fc497a94f072" />
+
+## **Hypothesis testing**
+
+Test for Heteroskadasticity
+
+<img width="393" height="154" alt="image" src="https://github.com/user-attachments/assets/90d7dc56-c3cc-4d42-80c4-934b84adbec2" />
+
+
