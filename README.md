@@ -35,4 +35,25 @@ Test for Heteroskadasticity
 
 <img width="393" height="154" alt="image" src="https://github.com/user-attachments/assets/90d7dc56-c3cc-4d42-80c4-934b84adbec2" />
 
+## Evaluation :
+
+
+## **Lagrange Multiplier Statistic:**
+
+This statistic tests the null hypothesis that the residuals from the regression model are homoscedastic (i.e., have constant variance). 
+
+In your case, the Lagrange Multiplier statistic is approximately 12.10. Though not conclusive, this high number could indicate that absence of Heteroskedasticity.
+
+## **p-value**
+
+High p-value of 0.2 is also a strong indicator that the above experiment can reject the null hypothesis. 
+
+<img width="1400" height="644" alt="image" src="https://github.com/user-attachments/assets/fcc82bac-e74b-410c-ab9f-2497ec41bf49" />
+
+
+The above graphs are a sign that the model built is in good order and does not exhibit heteroskadasticity.
+1. We see that first graph is random and does not follow any type of pattern.
+2. The graph is normally distributed.
+3. The Q-Q plot showing the plots closely following the red line is also a good sign.
+
 
