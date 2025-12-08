@@ -60,5 +60,5 @@ The above graphs are a sign that the model built is in good order and does not e
 
 In case you are interested in reviewing the detailed repo, you can click the below link.
 
-[[Open in Codespaces](https://github.com/codespaces/new?repo=USERNAME/REPO_NAME)](https://ghastly-spooky-crypt-g4xqp7wwr44j2v4j6.github.dev/)
+https://ghastly-spooky-crypt-g4xqp7wwr44j2v4j6.github.dev/
 
